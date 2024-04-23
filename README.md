@@ -8,4 +8,4 @@ In this project, I work with a dataset that includes comprehensive sales informa
 - Using condition function for Cleaning, structuring data
 - Using pivot table, pivot chart, filter,... to create dashboard
 #### Output Variables
-- The outcome of this project is an interactive dashboard to help managers have a clearer view of shop commercial state and can help to make business-decision faster.
+- The goal of this project is to create an interactive Excel dashboard that provides managers with a clear view of the shop's commercial performance, enabling them to make business decisions more quickly and with greater confidence.
