@@ -7,5 +7,5 @@ In this project, I work with a dataset that includes comprehensive sales informa
 - Using INDEXMATCH, XLOOKUP to collect data for one data table based on other data tables
 - Using condition function for Cleaning, structuring data
 - Using pivot table, pivot chart, filter,... to create dashboard
-Output Variables
+#### Output Variables
 - The outcome of this project is an interactive dashboard to help managers have a clearer view of shop commercial state and can help to make business-decision faster.
